@@ -34,3 +34,4 @@ and missed deadlines.
 ## Add any other rules that your team establishes to help each other work effectively together
 1. Always share idea and knowledge so the team can generate the best results
 2. Use collaborating application to better our productivity such as Slack and Trello
+3. Keep open communication on progress made on each others assignments
