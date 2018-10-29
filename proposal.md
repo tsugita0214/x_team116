@@ -84,12 +84,10 @@ Simple GUI with text entry fields for items/prices and the budget. The output on
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Name each interface or class and briefly describe its function or purpose.
- - Item Class (Custom): This class will instantiate item objects. It will need to implement comparable to allow for sorting, which will be based on the price. These objects have a name and price. They also have a "selected" field to determine if they are selected by the user when making a basket of items. A more advanced version of this project could see the item class storing more information such as a description field, what store the item is located at, or a priority number for how badly the user wants this item.
-
- - Storage: The items would be stored in an array.
-
+ - Item.java (Custom): This class will instantiate item objects. It will need to implement comparable to allow for sorting, which will be based on the price. These objects have a name and price. They also have a "selected" field to determine if they are selected by the user when making a basket of items. A more advanced version of this project could see the item class storing more information such as a description field, what store the item is located at, or a priority number for how badly the user wants this item.
+ - Storage.java: The items would be stored in BST.
  - Main.java: The main class would need to generate the user iterface. Like the Dorm Designer CS300 assignemnt, existing GUI packages would need to be imported to make this work.
-
+ - Test.java: The test class which tests the Storage class functionality for basic BST operations such as insert, delete, search, get, isEmpty. Also it tests about listing items inside in ascending order and descending order, list the combinations of items that you can get for certain amount of budget.
 
 
 
