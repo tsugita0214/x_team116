@@ -46,18 +46,17 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-- The output #1. 
- - One component of the program is to be able to display a list of items in ascending or descending order.
+  - The output #1.
+    - One component of the program is to be able to display a list of items in ascending or descending order.
+      - example of items list with ascending order of their prices after you put items in the program.
+        - a pair of Nike shoes: $100
+        - a warm jacket: $150
+        - a fast bicycle: $200
 
-  - example of items list with ascending order of their prices after you put items in the program.
-   - a pair of Nike shoes: $100
-   - a warm jacket: $150
-   - a fast bicycle: $200
-
-  - example of items list with descending order of their prices after you put items in the program.
-   - a fast bicycle: $200
-   - a warm jacket: $150
-   - a pair of Nike shoes: $100
+      - example of items list with descending order of their prices after you put items in the program.
+        - a fast bicycle: $200
+        - a warm jacket: $150
+        - a pair of Nike shoes: $100
 
 
 - The output #2. 
