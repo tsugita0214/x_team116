@@ -9,11 +9,11 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: tsugita0214      name 1: Takuto Sugita
        * GitHub username 2: th25cc           name 2: Tim Heinzel
-       * GitHub username 3:                  name 3: Jacob Kraft
+       * GitHub username 3: JacobKraft       name 3: Jacob Kraft
        * GitHub username 4: Schnoodert       name 4: Brian Schneider
        * GitHub username 5:                  name 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? 10-26 to 10-29
+   * How long did it take your team to complete this exercise? 1.5 hr
 
 ## Table of Contents
 
